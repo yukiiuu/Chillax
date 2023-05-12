@@ -34,7 +34,7 @@
 @import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
 
 /*additional addons*/ /*(remove the both * to use)*/
-/*@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");*/
+@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");
 
 
 
@@ -96,13 +96,14 @@
 
      
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var(--de-suggested-bg);
+  --background-image:var(--Anime-BG);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
   --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
+  --Anime-BG: url('https://images7.alphacoders.com/951/951170.jpg');
 }
 
 
